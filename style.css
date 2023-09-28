@@ -1,0 +1,70 @@
+body{
+    background-color: #357d31;
+}
+
+.container{
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #05526c;
+    border-radius: 10px;
+    box-shadow: 0px  0px 10px rgb(0,0,0, 0.2);
+    text-align: center;
+}
+
+h1{
+    font-size: 24px;
+    color: #37f122;
+    margin-bottom: 20px;
+}
+
+label{
+    font-size: 18px;
+    display: block;
+    margin-bottom: 10px;
+    color: #fbf3f3;
+}
+
+input[type="text"]{
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+button{
+    background-color: greenyellow;
+    color: #fff;
+    padding: 12px 24px;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+button:hover{
+    background-color: green;
+}
+p#resultado a {
+    font-size: 20px;
+    text-decoration: none;
+    color: greenyellow;
+}
+
+#copiarLink{
+    background-color: #ccc;
+    color: #fff;
+    padding: 12px 24px;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+
+    cursor: pointer;
+}
+
+#copiarLink:hover{
+    background-color: #555;
+}
