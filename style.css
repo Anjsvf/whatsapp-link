@@ -22,7 +22,7 @@ label{
     font-size: 18px;
     display: block;
     margin-bottom: 10px;
-    color: #fbf3f3;
+    color: #fffefe;
 }
 
 input[type="text"]{
@@ -36,7 +36,7 @@ input[type="text"]{
 
 button{
     background-color: greenyellow;
-    color: #fff;
+    color: #1100ff;
     padding: 12px 24px;
     font-size: 18px;
     border: none;
